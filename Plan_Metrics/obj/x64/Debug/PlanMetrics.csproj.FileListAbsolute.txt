@@ -1,0 +1,26 @@
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csprojAssemblyReference.cache
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\MainControl.baml
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\MainControl.g.cs
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.Properties.Resources.resources
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csproj.GenerateResource.cache
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csproj.CoreCompileInputs.cache
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csproj.CopyComplete
+K:\plugins\Plan_Metrics_v1.esapi.dll
+K:\plugins\Plan_Metrics_v1.esapi.pdb
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi_MarkupCompile.cache
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi.g.resources
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi.dll
+K:\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi.pdb
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csprojAssemblyReference.cache
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\MainControl.baml
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\MainControl.g.cs
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.Properties.Resources.resources
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csproj.GenerateResource.cache
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csproj.CoreCompileInputs.cache
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\PlanMetrics.csproj.CopyComplete
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\plugins\Plan_Metrics_v1.esapi.dll
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\plugins\Plan_Metrics_v1.esapi.pdb
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi_MarkupCompile.cache
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi.g.resources
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi.dll
+\\Fcs.com\clinical\radiation\FCS_Physics\Physicists'_Folders\Simon\SM Scripts\Plan_Metrics\obj\x64\Debug\Plan_Metrics_v1.esapi.pdb

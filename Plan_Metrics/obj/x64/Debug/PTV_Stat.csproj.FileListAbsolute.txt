@@ -1,0 +1,10 @@
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\MainControl.baml
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\MainControl.g.cs
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\PTV_Stat.csproj.CoreCompileInputs.cache
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\PTV_Stat.csprojAssemblyReference.cache
+K:\plugins\PTV_Stat_1.esapi.dll
+K:\plugins\PTV_Stat_1.esapi.pdb
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\PTV_Stat_1.esapi_MarkupCompile.cache
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\PTV_Stat_1.esapi.g.resources
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\PTV_Stat_1.esapi.dll
+K:\SM Scripts\PTV_Stat\obj\x64\Debug\PTV_Stat_1.esapi.pdb
