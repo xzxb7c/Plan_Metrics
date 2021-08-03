@@ -1,2 +1,2 @@
-# PTV_Stat
-Varian Eclipse ESAPI PTV Statistics Script 
+# PTV_Metrics_v1
+Varian Eclipse ESAPI Automatic Plan Constraint Evaluation.
